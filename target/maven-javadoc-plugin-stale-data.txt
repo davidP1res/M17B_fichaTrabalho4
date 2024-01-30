@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'M17B_fichaTrabalho4 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'M17B_fichaTrabalho4 1.0-SNAPSHOT API'
+psi_11_o.m17b_fichatrabalho4
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/src/main/java = 1676222074000
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/index.html = 1706616762972
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/element-list = 1706616762912
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/type-search-index.js = 1706616762956
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/module-search-index.js = 1706616762956
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/index-all.html = 1706616762972
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/jquery-ui.overrides.css = 1706616762988
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/allclasses-index.html = 1706616762956
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/tag-search-index.js = 1706616762956
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/help-doc.html = 1706616762976
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/member-search-index.js = 1706616762956
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/search.js = 1706616762984
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/script.js = 1706616762980
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/stylesheet.css = 1706616762980
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/package-search-index.js = 1706616762956
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/overview-tree.html = 1706616762944
+/home/DPED/a22904/Transferências/M17B_fichaTrabalho4/target/site/apidocs/allpackages-index.html = 1706616762956
